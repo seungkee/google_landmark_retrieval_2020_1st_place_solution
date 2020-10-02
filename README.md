@@ -6,6 +6,8 @@ Competition link (https://www.kaggle.com/c/landmark-retrieval-2020)
 
 Detailed solution description arxiv link (https://arxiv.org/ftp/arxiv/papers/2009/2009.05132.pdf)
 
+HARDWARE ENVIRONMENT
+Colab TPUs
 
 TRAINING(./notebooks)
 1. Run 'v2clean_sample.ipynb' until validation loss converge. Usually, validation loss stops at slightly over 1.0
