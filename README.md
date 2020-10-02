@@ -10,6 +10,10 @@ Detailed solution description arxiv link (https://arxiv.org/ftp/arxiv/papers/200
 
 HARDWARE ENVIRONMENT : Colab TPUs
 
+DATA : Google Landmarks Dataset v2(https://github.com/cvdfoundation/google-landmark)
+
+Transformed to TF Records on local for faster training.
+
 TRAINING(./notebooks)
 1. Run 'v2clean_train.ipynb' until validation loss converge.
    Congifuration: IMAGE_SIZE=[512,512], EFF_VER=7, BATCH_SIZE=8*8=64
