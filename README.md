@@ -6,7 +6,7 @@ Competition link (https://www.kaggle.com/c/landmark-retrieval-2020)
 
 Kaggle Discussion post link (https://www.kaggle.com/c/landmark-retrieval-2020/discussion/176037) 
 
-Detailed solution description arxiv link (https://arxiv.org/ftp/arxiv/papers/2009/2009.05132.pdf)
+Detailed solution description arxiv link (https://arxiv.org/abs/2009.05132f)
 
 HARDWARE ENVIRONMENT : Colab TPUs
 
