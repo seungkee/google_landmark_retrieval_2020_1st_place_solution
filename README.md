@@ -6,8 +6,7 @@ Competition link (https://www.kaggle.com/c/landmark-retrieval-2020)
 
 Detailed solution description arxiv link (https://arxiv.org/ftp/arxiv/papers/2009/2009.05132.pdf)
 
-TRAINING(./notebooks)
-You can refer training details in '../1st_Place_Solution_to_Google_Landmark_Retrieval_2020.pdf' 
+# TRAINING(./notebooks)
 1. Run 'v2clean_sample.ipynb' until validation loss converge. Usually, validation loss stops at slightly over 1.0
    in below configuration.
    Congifuration: IMAGE_SIZE=[512,512], EFF_VER=7, BATCH_SIZE=8*8=64
