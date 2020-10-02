@@ -1,1 +1,1 @@
-# google_landmark_retrieval_1stplacesolution
+# google_landmark_retrieval_1st_place_solution
