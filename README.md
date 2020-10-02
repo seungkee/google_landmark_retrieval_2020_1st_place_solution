@@ -13,7 +13,7 @@ TRAINING(./notebooks)
    in below configuration.
    Congifuration: IMAGE_SIZE=[512,512], EFF_VER=7, BATCH_SIZE=8*8=64
 2. Take efficientnet backbone from step 2, and run 'v2total_sample.ipynb' until validation loss converge.
-  Configuration : NOT_CLEAN_WEIGHT=1.0, IMAGE_SIZE=[512,512],EFF_VER=7, BATCHSIZE=8*8=64
+   Configuration : NOT_CLEAN_WEIGHT=1.0, IMAGE_SIZE=[512,512],EFF_VER=7, BATCHSIZE=8*8=64
 3. Run 'v2total_sample.ipynb' again, with larger image sizes.
 4. Run 'v2total_sample.ipynb' again, with NOT_CLEAN_WEIGHT = 0.5
 
