@@ -10,7 +10,7 @@ Detailed solution description arxiv link (https://arxiv.org/abs/2009.05132)
 
 HARDWARE ENVIRONMENT : Colab TPUs
 
-DATA : Google Landmarks Dataset v2(https://github.com/cvdfoundation/google-landmark). TF Records was used for faster training.
+DATA : Google Landmarks Dataset v2(https://github.com/cvdfoundation/google-landmark). TF Records were used for faster training.
 
 TRAINING(./notebooks)
 1. Run 'v2clean_train.ipynb' until validation loss converge.
