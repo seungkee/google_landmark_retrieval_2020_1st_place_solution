@@ -19,3 +19,6 @@ TRAINING(./notebooks)
    Configuration : NOT_CLEAN_WEIGHT=1.0, IMAGE_SIZE=[512,512],EFF_VER=7, BATCHSIZE=8*8=64
 3. Run 'v2total_train.ipynb' again, with larger image sizes.([640,640], [736,736])
 4. Run 'v2total_train.ipynb' again, with NOT_CLEAN_WEIGHT = 0.5
+
+INFERENCE(./notebooks)
+You can refer 'export_model.ipynb' for exporting single model and ensemble model.
